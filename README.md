@@ -7,6 +7,8 @@ PeachPay is a savings account for everyday crypto, a web or mobile loan app and 
 
 This project utilizes a virtual machine with the framework of Laravel in it, so to run this you will need to use Vagrant to run the machine in the Homestead folder. For more information and more detailed steps on how to initialize and configure the Homestead virtual machine, please consult this link. https://laravel.com/docs/4.2/homestead#installation-and-setup
 
+Added to this project is a .yaml with some configurations needed for the VM to function.
+
 Once initialized, the virtual machine should boot up with an accesible link for peachfarm.test.
 
 ## Description
